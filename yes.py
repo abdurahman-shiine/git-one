@@ -4,5 +4,4 @@ for i in range(5):
     print(i)
 
 print('ciyaarta iga daadee ina adeer!')
-
-x = 3
+print(3*x)
